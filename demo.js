@@ -20,7 +20,7 @@ console.log(n1.includes(2));
 console.log(n1.slice(2,5));
 
 
-console.log("this is a dummy text1");
+console.log("this is a dummy text2");
 
 let total=n1.reduce((sum,mark)=>sum+mark,0);
 console.log(total);
