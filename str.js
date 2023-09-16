@@ -46,3 +46,4 @@ for(s in demo)
 }
 
 console.log(demo.fullname())
+console.log(demo.lastname());
